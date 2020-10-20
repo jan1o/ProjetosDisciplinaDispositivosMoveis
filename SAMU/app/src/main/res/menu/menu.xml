@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/informacoes"
+        android:title="@string/menu_informacoes"
+        />
+    <item android:id="@+id/abrirsite"
+        android:title="@string/menu_abrir_site"
+        />
+    <item android:id="@+id/discar"
+        android:title="@string/menu_discar"
+        android:icon="@drawable/baseline_call_black_18dp"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/sobre"
+        android:title="@string/menu_sobre"
+        />
+    <item android:id="@+id/compartilhar"
+        android:title="@string/menu_compartilhar"
+        android:icon="@drawable/baseline_share_black_18dp"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/sair"
+        android:title="@string/menu_sair"
+        android:icon="@drawable/baseline_exit_to_app_black_18dp"
+        />
+</menu>

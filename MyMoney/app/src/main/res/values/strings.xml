@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyMoney</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_sair">Sair</string>
+    <string name="menu_user">User</string>
+
+    <string-array name="juros">
+        <item>Juros Simples</item>
+        <item>Juros Compostos</item>
+    </string-array>
+    <string-array name="descontos">
+        <item>Descontos Simples</item>
+        <item>Descontos Compostos</item>
+    </string-array>
+</resources>

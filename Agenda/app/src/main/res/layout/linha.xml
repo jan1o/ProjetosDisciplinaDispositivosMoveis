@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_icone"
+        android:layout_width="99dp"
+        android:layout_height="56dp"
+        android:background="@android:color/darker_gray"
+        android:gravity="center"
+        android:text="A"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:id="@+id/ll_2"
+        android:layout_width="210dp"
+        android:layout_height="56dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_nome"
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_numero"
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bt_ligar"
+        android:layout_width="101dp"
+        android:layout_height="56dp"
+        android:background="@android:color/holo_green_dark"
+        android:text="Discar"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+</LinearLayout>
+
+

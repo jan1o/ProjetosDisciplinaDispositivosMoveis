@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app09</string>
+    <string name="add">ADD</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>

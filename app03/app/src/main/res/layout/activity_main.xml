@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_bicho2"
+        android:layout_width="87dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="54dp"
+        android:background="@android:color/holo_green_light"
+        android:gravity="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_bicho" />
+
+    <Button
+        android:id="@+id/bt_bicho2"
+        android:layout_width="249dp"
+        android:layout_height="57dp"
+        android:layout_marginEnd="8dp"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/tv_bicho2"
+        app:layout_constraintTop_toBottomOf="@+id/bt_bicho" />
+
+    <TextView
+        android:id="@+id/tv_bicho4"
+        android:layout_width="87dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="54dp"
+        android:background="@android:color/holo_green_light"
+        android:gravity="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_bicho3" />
+
+    <TextView
+        android:id="@+id/tv_bicho5"
+        android:layout_width="87dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="54dp"
+        android:background="@android:color/holo_green_light"
+        android:gravity="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_bicho4" />
+
+    <TextView
+        android:id="@+id/tv_bicho3"
+        android:layout_width="87dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="54dp"
+        android:background="@android:color/holo_green_light"
+        android:gravity="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_bicho2" />
+
+    <Button
+        android:id="@+id/bt_bicho3"
+        android:layout_width="249dp"
+        android:layout_height="57dp"
+        android:layout_marginEnd="8dp"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/tv_bicho4"
+        app:layout_constraintTop_toBottomOf="@+id/bt_bicho4" />
+
+    <Button
+        android:id="@+id/bt_bicho5"
+        android:layout_width="249dp"
+        android:layout_height="57dp"
+        android:layout_marginEnd="8dp"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/tv_bicho5"
+        app:layout_constraintTop_toBottomOf="@+id/bt_bicho3" />
+
+    <Button
+        android:id="@+id/bt_bicho4"
+        android:layout_width="249dp"
+        android:layout_height="57dp"
+        android:layout_marginEnd="20dp"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/tv_bicho3"
+        app:layout_constraintTop_toBottomOf="@+id/bt_bicho2" />
+
+    <TextView
+        android:id="@+id/tv_logo"
+        android:layout_width="413dp"
+        android:layout_height="137dp"
+        android:background="@android:color/holo_green_dark"
+        android:gravity="center"
+        android:text="Jogo do Bicho"
+        android:textColor="@android:color/background_dark"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_bicho"
+        android:layout_width="87dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="76dp"
+        android:background="@android:color/holo_green_light"
+        android:gravity="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toStartOf="@+id/bt_bicho"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_logo" />
+
+    <Button
+        android:id="@+id/bt_bicho"
+        android:layout_width="249dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="76dp"
+        android:layout_marginEnd="20dp"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_logo" />
+
+    <Button
+        android:id="@+id/bt_verbichos"
+        android:layout_width="209dp"
+        android:layout_height="74dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="8dp"
+        android:background="@android:color/holo_blue_dark"
+        android:gravity="center"
+        android:text="Ver Bichos"
+        android:textColor="@android:color/black"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt_bicho5" />
+</android.support.constraint.ConstraintLayout>

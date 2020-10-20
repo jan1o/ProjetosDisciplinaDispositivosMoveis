@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".telaContatos">
+
+    <ImageView
+        android:id="@+id/iv_local"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="128dp"
+        android:layout_marginEnd="26dp"
+        app:layout_constraintEnd_toStartOf="@+id/tv_local"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/baseline_location_on_black_18dp" />
+
+    <TextView
+        android:id="@+id/tv_local"
+        android:layout_width="281dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="128dp"
+        android:layout_marginEnd="32dp"
+        android:text="RN-288 - Conj. Res. Samanau, Caicó - RN, 59300-000"
+        android:textColor="@android:color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/iv_mail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="62dp"
+        android:layout_marginEnd="26dp"
+        app:layout_constraintEnd_toStartOf="@+id/tv_mail"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_local"
+        app:srcCompat="@drawable/baseline_email_black_18dp" />
+
+    <TextView
+        android:id="@+id/tv_mail"
+        android:layout_width="281dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="32dp"
+        android:text="http://portalms.saude.gov.br/saude-de-a-z/servico-de-atendimento-movel-de-urgencia-samu-192"
+        android:textColor="@android:color/black"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_local" />
+
+    <Button
+        android:id="@+id/bt_discar"
+        android:layout_width="266dp"
+        android:layout_height="126dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="150dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:text="192"
+        android:textColor="@android:color/black"
+        android:textSize="50sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</android.support.constraint.ConstraintLayout>

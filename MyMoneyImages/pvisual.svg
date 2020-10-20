@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="pvisual.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5258">
+      <stop
+         style="stop-color:#ffa162;stop-opacity:1"
+         offset="0"
+         id="stop5254" />
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1"
+         offset="1"
+         id="stop5256" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5252">
+      <stop
+         style="stop-color:#ffeb99;stop-opacity:1"
+         offset="0"
+         id="stop5248" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="1"
+         id="stop5250" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5246"
+       inkscape:collect="always">
+      <stop
+         id="stop5242"
+         offset="0"
+         style="stop-color:#ff7272;stop-opacity:1" />
+      <stop
+         id="stop5244"
+         offset="1"
+         style="stop-color:#ff0000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5240"
+       inkscape:collect="always">
+      <stop
+         id="stop5236"
+         offset="0"
+         style="stop-color:#ff8383;stop-opacity:1" />
+      <stop
+         id="stop5238"
+         offset="1"
+         style="stop-color:#ff0000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5212">
+      <stop
+         style="stop-color:#aadce8;stop-opacity:1"
+         offset="0"
+         id="stop5208" />
+      <stop
+         style="stop-color:#37abc8;stop-opacity:1"
+         offset="1"
+         id="stop5210" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5267"
+       inkscape:collect="always">
+      <stop
+         id="stop5263"
+         offset="0"
+         style="stop-color:#eeffaa;stop-opacity:1" />
+      <stop
+         id="stop5265"
+         offset="1"
+         style="stop-color:#aad400;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5225">
+      <stop
+         style="stop-color:#ff5555;stop-opacity:1"
+         offset="0"
+         id="stop5221" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop5223" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5103">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5099" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5101" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5081"
+       inkscape:collect="always">
+      <stop
+         id="stop5077"
+         offset="0"
+         style="stop-color:#ffe680;stop-opacity:1" />
+      <stop
+         id="stop5079"
+         offset="1"
+         style="stop-color:#ffcc00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5047">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5043" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5045" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4598">
+      <stop
+         style="stop-color:#ffff70;stop-opacity:1"
+         offset="0"
+         id="stop4594" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="1"
+         id="stop4596" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect850"
+       is_visible="true" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4997"
+       x="-0.0804"
+       width="1.1608"
+       y="-0.0804"
+       height="1.1608">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6659377"
+         id="feGaussianBlur4999" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5081"
+       id="radialGradient5075"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,342.6815,61.17255)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5105"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,289.13653,130.74928)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5225"
+       id="radialGradient5217"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,342.6815,-85.83603)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,289.13653,-16.25929)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5225"
+       id="radialGradient5241"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,342.6815,-37.19298)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5243"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,289.13653,32.38376)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5267"
+       id="radialGradient5259"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,342.6815,13.07785)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5261"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,289.13653,82.654593)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5267"
+       id="radialGradient4662"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,-259.8955,-181.50358)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-313.44048,-111.92684)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5240"
+       id="radialGradient4746"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,57.620698,-261.16484)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4748"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,4.0757183,-191.5881)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5246"
+       id="radialGradient4800"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,57.620698,-213.91782)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4802"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,4.0757183,-144.34108)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4598"
+       id="radialGradient4938"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-629.86727,-85.526249)"
+       cx="-240.95982"
+       cy="-73.79464"
+       fx="-240.95982"
+       fy="-73.79464"
+       r="22.861334" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5047"
+       id="linearGradient4940"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1080034,0,0,1.1080034,-603.64235,-76.548882)"
+       x1="-241.27225"
+       y1="-92.896217"
+       x2="-240.91463"
+       y2="-75.122795" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="radialGradient4942"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,-618.21693,-164.40293)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4944"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-671.76191,-94.826196)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5225"
+       id="radialGradient4946"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,-618.21693,-261.16484)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4948"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-671.76191,-191.5881)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5267"
+       id="radialGradient4950"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,-618.21693,-212.49763)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4952"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-671.76191,-142.92089)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5267"
+       id="radialGradient4988"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,-259.8955,-231.39644)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4990"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-313.44048,-161.8197)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5267"
+       id="radialGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,-259.8955,-279.77739)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5020"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-311.85434,-212.2129)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5046"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-311.91238,-60.430366)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5081"
+       id="radialGradient5078"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,-887.33598,-261.16484)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5080"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-940.88096,-191.5881)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5081"
+       id="radialGradient5104"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409742e-8,-1.8711704e-8,0.34482464,-887.33598,-213.53984)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5106"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-940.88096,-143.9631)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5154"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-940.88096,-96.440148)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-940.88096,-48.815148)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5206"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.76902888,0,0,0.75958367,-1000.4008,3.4476142)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5212"
+       id="radialGradient5216"
+       cx="-535.95398"
+       cy="-190.08859"
+       fx="-535.95398"
+       fy="-190.08859"
+       r="82.64286"
+       gradientTransform="matrix(1,0,0,0.23163352,0,-146.05771)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5212"
+       id="radialGradient5232"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.23163352,314.47619,-182.34342)"
+       cx="-535.95398"
+       cy="-190.08859"
+       fx="-535.95398"
+       fy="-190.08859"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5234"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,2.5638103,-96.71608)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5258"
+       id="radialGradient5260"
+       cx="-1164.9226"
+       cy="-226.09835"
+       fx="-1164.9226"
+       fy="-226.09835"
+       r="82.64286"
+       gradientTransform="matrix(1,0,0,0.23163352,0,-173.7264)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5258"
+       id="radialGradient5268"
+       cx="-1164.9226"
+       cy="-178.47334"
+       fx="-1164.9226"
+       fy="-178.47334"
+       r="82.64286"
+       gradientTransform="matrix(1,0,0,0.23163352,0,-137.13294)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5267"
+       id="radialGradient5276"
+       cx="-1164.9226"
+       cy="-126.21058"
+       fx="-1164.9226"
+       fy="-126.21058"
+       r="60.720242"
+       gradientTransform="matrix(1,0,0,0.31526318,0,-86.421033)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5106-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958366,-946.59893,81.345965)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5081"
+       id="radialGradient5104-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2975309,7.0409741e-8,-1.8711704e-8,0.34482463,-893.05393,11.769225)"
+       cx="-213.93449"
+       cy="-174.23775"
+       fx="-213.93449"
+       fy="-174.23775"
+       r="82.64286" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5258"
+       id="radialGradient4941"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.23163352,-4.9620652,60.0002)"
+       cx="-1164.9226"
+       cy="-226.09835"
+       fx="-1164.9226"
+       fy="-226.09835"
+       r="82.64286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4943"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472441,0,0,0.75958367,-946.11012,135.7922)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5267"
+       id="radialGradient1165"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.31526318,450.08189,-44.726986)"
+       cx="-1164.9226"
+       cy="-126.21058"
+       fx="-1164.9226"
+       fy="-126.21058"
+       r="60.720242" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient1196"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.76902888,0,0,0.75958367,-549.17938,43.311066)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5267"
+       id="radialGradient1220"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.31526318,451.59379,7.433729)"
+       cx="-1164.9226"
+       cy="-126.21058"
+       fx="-1164.9226"
+       fy="-126.21058"
+       r="60.720242" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient1222"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.76902888,0,0,0.75958367,-547.66748,95.471781)"
+       x1="-212.61159"
+       y1="-188.97882"
+       x2="-212.23361"
+       y2="-171.21394" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-3918.7155"
+     inkscape:cy="2158.3347"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#radialGradient5075);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect825"
+       width="163.28572"
+       height="36.285713"
+       x="-16.547976"
+       y="-17.05179"
+       ry="9.0714283" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot882"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.21755859,0,0,0.21755859,15.043749,-67.725467)"><flowRegion
+         id="flowRegion884"><rect
+           id="rect886"
+           width="158.08885"
+           height="46.467018"
+           x="-1252.5891"
+           y="-5.3156323" /></flowRegion><flowPara
+         id="flowPara888"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni">VOLTAR</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5025"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion5027"><rect
+           id="rect5029"
+           width="260.71429"
+           height="179.28572"
+           x="-1195"
+           y="-331.76602" /></flowRegion><flowPara
+         id="flowPara5031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Georgia;-inkscape-font-specification:Georgia" /></flowRoot>    <g
+       id="g5091"
+       transform="translate(275.26295,175.28347)">
+      <flowRoot
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5051"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+           id="flowRegion5053"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             y="-443.19461"
+             x="-1835.7142"
+             height="347.14285"
+             width="618.57141"
+             id="rect5055" /></flowRegion><flowPara
+           id="flowPara5057">$</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5065"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.49176776,0,0,0.49176776,351.89423,-182.10487)"><flowRegion
+           id="flowRegion5061"><rect
+             id="rect5059"
+             width="295.18112"
+             height="56.972664"
+             x="-1252.5891"
+             y="-5.3156323" /></flowRegion><flowPara
+           id="flowPara5063"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni">Investimentos</flowPara></flowRoot>    </g>
+    <rect
+       ry="3.5888064"
+       y="-13.08304"
+       x="-10.311373"
+       height="14.355226"
+       width="150.8125"
+       id="rect5093"
+       style="opacity:0.3260002;fill:url(#linearGradient5105);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       ry="9.0714283"
+       y="-164.06038"
+       x="-16.547976"
+       height="36.285713"
+       width="163.28572"
+       id="rect5195"
+       style="opacity:1;fill:url(#radialGradient5217);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       transform="matrix(1.0766779,0,0,1.0766779,280.44461,39.24741)"
+       id="g5213">
+      <flowRoot
+         transform="matrix(0.41931667,0,0,0.41931667,272.3086,-180.93561)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5211"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5207"><rect
+             y="-5.3156323"
+             x="-1252.5891"
+             height="56.972664"
+             width="344.095"
+             id="rect5205" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+           id="flowPara5209">Despesa Fixa</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient5219);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5215"
+       width="150.8125"
+       height="14.355226"
+       x="-10.311373"
+       y="-160.09163"
+       ry="3.5888064" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient5241);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5227"
+       width="163.28572"
+       height="36.285713"
+       x="-16.547976"
+       y="-115.41731"
+       ry="9.0714283" />
+    <g
+       id="g5237"
+       transform="matrix(0.98277722,0,0,0.98277722,235.26342,72.3288)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5235"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.41931667,0,0,0.41931667,276.8703,-180.93561)"><flowRegion
+           id="flowRegion5231"><rect
+             id="rect5229"
+             width="381.76962"
+             height="50.274952"
+             x="-1252.5891"
+             y="-5.3156323" /></flowRegion><flowPara
+           id="flowPara5233"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni">Despesa Ocasional</flowPara></flowRoot>    </g>
+    <rect
+       ry="3.5888064"
+       y="-111.44856"
+       x="-10.311373"
+       height="14.355226"
+       width="150.8125"
+       id="rect5239"
+       style="opacity:0.3260002;fill:url(#linearGradient5243);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       ry="9.0714283"
+       y="-65.146484"
+       x="-16.547976"
+       height="36.285713"
+       width="163.28572"
+       id="rect5245"
+       style="opacity:1;fill:url(#radialGradient5259);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       transform="matrix(1.0766779,0,0,1.0766779,280.44461,140.54366)"
+       id="g5255">
+      <flowRoot
+         transform="matrix(0.41931667,0,0,0.41931667,273.87284,-180.82279)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5253"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5249"><rect
+             y="-5.3156323"
+             x="-1252.5891"
+             height="56.972664"
+             width="344.095"
+             id="rect5247" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+           id="flowPara5251">Novo Ganho</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient5261);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5257"
+       width="150.8125"
+       height="14.355226"
+       x="-10.311373"
+       y="-61.177734"
+       ry="3.5888064" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient4662);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4636"
+       width="163.28572"
+       height="36.285713"
+       x="-619.125"
+       y="-259.72791"
+       ry="9.0714283"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\receitaocasional.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4676"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43811637"
+       transform="matrix(0.60391109,0,0,0.60391109,827.7739,589.39857)"><flowRegion
+         id="flowRegion4678"
+         style="stroke-width:0.43811637"><rect
+           id="rect4680"
+           width="779.83777"
+           height="177.78685"
+           x="-2367.7976"
+           y="-1649.3389"
+           style="stroke-width:0.43811637" /></flowRegion><flowPara
+         id="flowPara4682"
+         style="stroke-width:0.43811637">Receitas</flowPara></flowRoot>    <rect
+       ry="9.0714283"
+       y="-339.38919"
+       x="-301.6088"
+       height="36.285713"
+       width="163.28572"
+       id="rect4706"
+       style="opacity:1;fill:url(#radialGradient4746);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient4748);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4718"
+       width="150.8125"
+       height="14.355226"
+       x="-295.37216"
+       y="-335.42044"
+       ry="3.5888064" />
+    <flowRoot
+       transform="matrix(0.60391109,0,0,0.60391109,1137.8066,589.39857)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43811637"
+       id="flowRoot4740"
+       xml:space="preserve"><flowRegion
+         style="stroke-width:0.43811637"
+         id="flowRegion4736"><rect
+           style="stroke-width:0.43811637"
+           y="-1649.3389"
+           x="-2367.7976"
+           height="177.78685"
+           width="779.83777"
+           id="rect4734" /></flowRegion><flowPara
+         style="stroke-width:0.43811637"
+         id="flowPara4738">Despesas</flowPara></flowRoot>    <g
+       style="stroke-width:1.13700366"
+       transform="matrix(0.94694324,0,0,0.94694324,-45.330833,-157.98964)"
+       id="g4716">
+      <flowRoot
+         transform="matrix(0.41931667,0,0,0.41931667,287.4351,-181.36148)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13700366"
+         id="flowRoot4714"
+         xml:space="preserve"><flowRegion
+           style="stroke-width:1.13700366"
+           id="flowRegion4710"><rect
+             style="stroke-width:1.13700366"
+             y="-5.3156323"
+             x="-1252.5891"
+             height="56.972664"
+             width="344.095"
+             id="rect4708" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.13700366"
+           id="flowPara4712">Despesa Fixa </flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:1;fill:url(#radialGradient4800);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4780"
+       width="163.28572"
+       height="36.285713"
+       x="-301.6088"
+       y="-292.14218"
+       ry="9.0714283" />
+    <rect
+       ry="3.5888064"
+       y="-288.17343"
+       x="-295.37216"
+       height="14.355226"
+       width="150.8125"
+       id="rect4782"
+       style="opacity:0.3260002;fill:url(#linearGradient4802);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       id="g4792"
+       transform="matrix(0.94694324,0,0,0.94694324,-56.556936,-110.61466)"
+       style="stroke-width:1.13700366">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4790"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26216209"
+         transform="matrix(0.37773644,0,0,0.37773644,242.81017,-180.48663)"><flowRegion
+           id="flowRegion4786"
+           style="stroke-width:1.26216209"><rect
+             id="rect4784"
+             width="391.69073"
+             height="57.92458"
+             x="-1252.5891"
+             y="-5.3156323"
+             style="stroke-width:1.26216209" /></flowRegion><flowPara
+           id="flowPara4788"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.26216209">Despesa Ocasional</flowPara></flowRoot>    </g>
+    <circle
+       r="26.712955"
+       cy="-159.32089"
+       cx="-870.82709"
+       id="circle4844"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <circle
+       transform="matrix(0.92983664,0,0,0.92983664,-646.77382,-90.703928)"
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.93081212;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter4997)"
+       id="circle4846"
+       cx="-240.95982"
+       cy="-73.79464"
+       r="24.864742" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient4938);fill-opacity:1;stroke:none;stroke-width:1.38999999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle4848"
+       cx="-870.82709"
+       cy="-159.32089"
+       r="22.861334" />
+    <g
+       transform="translate(-629.86727,-85.526249)"
+       id="g4856">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.28734529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect4850"
+         width="22.416006"
+         height="3.4261637"
+         x="-252.16783"
+         y="-81.181915"
+         ry="1.7130818" />
+      <rect
+         ry="1.7759421"
+         y="-195.97449"
+         x="-178.63622"
+         height="3.5518842"
+         width="17.605528"
+         id="rect4852"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.16162467;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         transform="rotate(-30)" />
+      <rect
+         transform="matrix(0.8660254,0.50000001,0.50000001,-0.8660254,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.16162467;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect4854"
+         width="17.60553"
+         height="3.5518844"
+         x="-258.12561"
+         y="-58.2948"
+         ry="1.7759422" />
+    </g>
+    <ellipse
+       ry="8.2257309"
+       rx="13.820363"
+       cy="-172.07481"
+       cx="-870.62659"
+       id="ellipse4858"
+       style="opacity:0.25799997;fill:url(#linearGradient4940);fill-opacity:1;stroke:none;stroke-width:3.07172918;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle4860"
+       cx="-931.49225"
+       cy="-159.32089"
+       r="26.712955" />
+    <flowRoot
+       transform="matrix(1.3513383,0,0,1.3513383,684.30987,264.11925)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4868"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'"
+         id="flowRegion4864"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'"
+           y="-334.62317"
+           x="-1201.4286"
+           height="137.85715"
+           width="241.42857"
+           id="rect4862" /></flowRegion><flowPara
+         id="flowPara4866">i</flowPara></flowRoot>    <g
+       style="stroke-width:1.09150612"
+       transform="matrix(0.98641489,0,0,0.98641489,-532.81768,-19.468365)"
+       id="g4878">
+      <flowRoot
+         transform="matrix(0.27898491,0,0,0.27898491,-10.92508,-137.03329)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.64054298"
+         id="flowRoot4876"
+         xml:space="preserve"><flowRegion
+           style="stroke-width:1.64054298"
+           id="flowRegion4872"><rect
+             style="stroke-width:1.64054298"
+             y="-5.3156323"
+             x="-1252.5891"
+             height="56.972664"
+             width="344.095"
+             id="rect4870" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.64054298"
+           id="flowPara4874">Voltar</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:1;fill:url(#radialGradient4942);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4880"
+       width="163.28572"
+       height="36.285713"
+       x="-977.44641"
+       y="-242.62727"
+       ry="9.0714283"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\menu inicial\calculadora.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <g
+       id="g4898"
+       transform="translate(-696.44151,-50.292007)"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\menu inicial\calculadora.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95">
+      <flowRoot
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4888"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+           id="flowRegion4884"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             y="-443.19461"
+             x="-1835.7142"
+             height="347.14285"
+             width="618.57141"
+             id="rect4882" /></flowRegion><flowPara
+           id="flowPara4886" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4896"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.49176776,0,0,0.49176776,351.89423,-182.10487)"><flowRegion
+           id="flowRegion4892"><rect
+             id="rect4890"
+             width="295.18112"
+             height="56.972664"
+             x="-1252.5891"
+             y="-5.3156323" /></flowRegion><flowPara
+           id="flowPara4894"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni">  Calculadora</flowPara></flowRoot>    </g>
+    <rect
+       ry="3.5888064"
+       y="-238.65852"
+       x="-971.20978"
+       height="14.355226"
+       width="150.8125"
+       id="rect4900"
+       style="opacity:0.3260002;fill:url(#linearGradient4944);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\menu inicial\calculadora.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <rect
+       ry="9.0714283"
+       y="-339.38919"
+       x="-977.44641"
+       height="36.285713"
+       width="163.28572"
+       id="rect4902"
+       style="opacity:1;fill:url(#radialGradient4946);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       style="stroke-width:0.82580006"
+       transform="matrix(1.3037997,0,0,1.3037997,-635.02647,-97.021439)"
+       id="g4912">
+      <flowRoot
+         transform="matrix(0.41931667,0,0,0.41931667,287.4351,-181.36148)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82580006"
+         id="flowRoot4910"
+         xml:space="preserve"><flowRegion
+           style="stroke-width:0.82580006"
+           id="flowRegion4906"><rect
+             style="stroke-width:0.82580006"
+             y="-5.3156323"
+             x="-1252.5891"
+             height="56.972664"
+             width="344.095"
+             id="rect4904" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:0.82580006"
+           id="flowPara4908">Despesas </flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient4948);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4914"
+       width="150.8125"
+       height="14.355226"
+       x="-971.20978"
+       y="-335.42044"
+       ry="3.5888064" />
+    <rect
+       ry="9.0714283"
+       y="-290.72195"
+       x="-977.44641"
+       height="36.285713"
+       width="163.28572"
+       id="rect4916"
+       style="opacity:1;fill:url(#radialGradient4950);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       id="g4926"
+       transform="matrix(1.3037997,0,0,1.3037997,-635.02647,-48.912924)"
+       style="stroke-width:0.82580006">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4924"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82580006"
+         transform="matrix(0.41931667,0,0,0.41931667,292.11965,-181.36148)"><flowRegion
+           id="flowRegion4920"
+           style="stroke-width:0.82580006"><rect
+             id="rect4918"
+             width="344.095"
+             height="56.972664"
+             x="-1252.5891"
+             y="-5.3156323"
+             style="stroke-width:0.82580006" /></flowRegion><flowPara
+           id="flowPara4922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:0.82580006">Receitas </flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient4952);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4928"
+       width="150.8125"
+       height="14.355226"
+       x="-971.20978"
+       y="-286.7532"
+       ry="3.5888064" />
+    <flowRoot
+       transform="matrix(0.60391109,0,0,0.60391109,432.03474,589.39857)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43811637"
+       id="flowRoot4936"
+       xml:space="preserve"><flowRegion
+         style="stroke-width:0.43811637"
+         id="flowRegion4932"><rect
+           style="stroke-width:0.43811637"
+           y="-1649.3389"
+           x="-2367.7976"
+           height="177.78685"
+           width="779.83777"
+           id="rect4930" /></flowRegion><flowPara
+         style="stroke-width:0.43811637"
+         id="flowPara4934">MENU INICIAL</flowPara></flowRoot>    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -290.43112,-316.13577 v -4.8749 l -4.88301,-0.008 v -3.66226 h 4.87568 l 0.007,-4.88302 h 3.66229 v 4.86178 l 4.88301,0.0212 v 3.66226 h -4.89439 l 0.0114,4.88304 z"
+       id="path4954"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4956"
+       d="m -290.43112,-268.82906 v -4.8749 l -4.88301,-0.008 v -3.66226 h 4.87568 l 0.007,-4.88302 h 3.66229 v 4.86178 l 4.88301,0.0212 v 3.66226 h -4.89439 l 0.0114,4.88304 z"
+       style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -606.41922,-234.87101 v -4.8749 l -4.88301,-0.008 v -3.66226 h 4.87568 l 0.007,-4.88302 h 3.66229 v 4.86178 l 4.88301,0.0212 v 3.66226 h -4.89439 l 0.0114,4.88304 z"
+       id="path4960"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\receitaocasional.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="9.0714283"
+       y="-309.62076"
+       x="-619.125"
+       height="36.285713"
+       width="163.28572"
+       id="rect4972"
+       style="opacity:1;fill:url(#radialGradient4988);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\receitafixa.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4974"
+       d="m -606.41922,-284.76387 v -4.8749 l -4.88301,-0.008 v -3.66226 h 4.87568 l 0.007,-4.88302 h 3.66229 v 4.86178 l 4.88301,0.0212 v 3.66226 h -4.89439 l 0.0114,4.88304 z"
+       style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\receitafixa.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       style="stroke-width:1.13700366"
+       transform="matrix(0.94694324,0,0,0.94694324,-358.41103,-128.22121)"
+       id="g4984"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\receitafixa.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <flowRoot
+         transform="matrix(0.41931667,0,0,0.41931667,287.4351,-179.61296)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13700366"
+         id="flowRoot4982"
+         xml:space="preserve"><flowRegion
+           style="stroke-width:1.13700366"
+           id="flowRegion4978"><rect
+             style="stroke-width:1.13700366"
+             y="-5.3156323"
+             x="-1252.5891"
+             height="56.972664"
+             width="344.095"
+             id="rect4976" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.13700366"
+           id="flowPara4980">Receita Fixa </flowPara></flowRoot>    </g>
+    <g
+       style="stroke-width:1.13700366"
+       transform="matrix(0.94694324,0,0,0.94694324,-372.83177,-76.413382)"
+       id="g5000"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\receitaocasional.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <flowRoot
+         transform="matrix(0.37773644,0,0,0.37773644,242.81017,-180.48663)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26216209"
+         id="flowRoot4998"
+         xml:space="preserve"><flowRegion
+           style="stroke-width:1.26216209"
+           id="flowRegion4994"><rect
+             style="stroke-width:1.26216209"
+             y="-5.3156323"
+             x="-1252.5891"
+             height="57.92458"
+             width="391.69073"
+             id="rect4992" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.26216209"
+           id="flowPara4996">Receita Ocasional</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:1;fill:url(#radialGradient5018);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5002"
+       width="163.28572"
+       height="36.285713"
+       x="-619.125"
+       y="-358.00171"
+       ry="9.0714283"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\btsalario.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -606.41922,-333.14482 v -4.8749 l -4.88301,-0.008 v -3.66226 h 4.87568 l 0.007,-4.88302 h 3.66229 v 4.86178 l 4.88301,0.0212 v 3.66226 h -4.89439 l 0.0114,4.88304 z"
+       id="path5004"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\btsalario.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g5014"
+       transform="matrix(1.1685535,0,0,1.1685535,-292.80297,-137.54836)"
+       style="stroke-width:0.92137665"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\btsalario.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5012"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.92137665"
+         transform="matrix(0.41931667,0,0,0.41931667,287.4351,-179.61296)"><flowRegion
+           id="flowRegion5008"
+           style="stroke-width:0.92137665"><rect
+             id="rect5006"
+             width="344.095"
+             height="56.972664"
+             x="-1252.5891"
+             y="-5.3156323"
+             style="stroke-width:0.92137665" /></flowRegion><flowPara
+           id="flowPara5010"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:0.92137665">Salario</flowPara></flowRoot>    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -535.93427,-343.69787 1.20755,0.66428 3.99745,-3.11384 -2.95643,-1.57771 z"
+       id="path5022"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\btsalario.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="3.5888064"
+       y="-356.0452"
+       x="-611.30225"
+       height="14.355226"
+       width="150.8125"
+       id="rect5016"
+       style="opacity:0.3260002;fill:url(#linearGradient5020);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\btsalario.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient4990);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4986"
+       width="150.8125"
+       height="14.355226"
+       x="-612.88837"
+       y="-305.65201"
+       ry="3.5888064"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\receitafixa.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="3.5888064"
+       y="-255.75916"
+       x="-612.88837"
+       height="14.355226"
+       width="150.8125"
+       id="rect4648"
+       style="opacity:0.3260002;fill:url(#linearGradient4664);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\receitaocasional.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient5216);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5032"
+       width="163.28572"
+       height="36.285713"
+       x="-617.59686"
+       y="-208.23146"
+       ry="9.0714283"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\visualizarreceitas.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="3.5888064"
+       y="-204.26271"
+       x="-611.36023"
+       height="14.355226"
+       width="150.8125"
+       id="rect5034"
+       style="opacity:0.3260002;fill:url(#linearGradient5046);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\visualizarreceitas.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g5044"
+       transform="matrix(0.94694324,0,0,0.94694324,-385.16619,-26.703948)"
+       style="stroke-width:1.13700366"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela receitas\visualizarreceitas.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5042"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26216209"
+         transform="matrix(0.37773644,0,0,0.37773644,247.03023,-178.92256)"><flowRegion
+           id="flowRegion5038"
+           style="stroke-width:1.26216209"><rect
+             id="rect5036"
+             width="391.69073"
+             height="57.92458"
+             x="-1252.5891"
+             y="-5.3156323"
+             style="stroke-width:1.26216209" /></flowRegion><flowPara
+           id="flowPara5040"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.26216209">Visualizar Receitas</flowPara></flowRoot>    </g>
+    <g
+       id="g4836">
+      <rect
+         style="opacity:1;fill:url(#radialGradient5078);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect5056"
+         width="163.28572"
+         height="36.285713"
+         x="-1246.5654"
+         y="-339.38916"
+         ry="9.0714283" />
+      <g
+         id="g5074"
+         transform="translate(-965.56056,-147.05391)">
+        <flowRoot
+           transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot5064"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             id="flowRegion5060"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+               y="-443.19461"
+               x="-1835.7142"
+               height="347.14285"
+               width="618.57141"
+               id="rect5058" /></flowRegion><flowPara
+             id="flowPara5062" /></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5072"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.49176776,0,0,0.49176776,353.35902,-184.53923)"><flowRegion
+             id="flowRegion5068"><rect
+               id="rect5066"
+               width="295.18112"
+               height="56.972664"
+               x="-1252.5891"
+               y="-5.3156323" /></flowRegion><flowPara
+             id="flowPara5070"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni">Juros Simples</flowPara></flowRoot>      </g>
+      <rect
+         ry="3.5888064"
+         y="-335.42041"
+         x="-1240.3289"
+         height="14.355226"
+         width="150.8125"
+         id="rect5076"
+         style="opacity:0.3260002;fill:url(#linearGradient5080);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+    <rect
+       style="opacity:1;fill:url(#radialGradient5104);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5082"
+       width="163.28572"
+       height="36.285713"
+       x="-1246.5654"
+       y="-291.76416"
+       ry="9.0714283" />
+    <g
+       id="g5100"
+       transform="matrix(0.92492684,0,0,0.92492684,-980.5273,-112.50608)"
+       style="stroke-width:1.08116663">
+      <flowRoot
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08116663"
+         id="flowRoot5090"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.08116663"
+           id="flowRegion5086"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.08116663"
+             y="-443.19461"
+             x="-1835.7142"
+             height="347.14285"
+             width="618.57141"
+             id="rect5084" /></flowRegion><flowPara
+           id="flowPara5088"
+           style="stroke-width:1.08116663" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5098"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08116663"
+         transform="matrix(0.49176776,0,0,0.49176776,332.71823,-184.22227)"><flowRegion
+           id="flowRegion5094"
+           style="stroke-width:1.08116663"><rect
+             id="rect5092"
+             width="373.12384"
+             height="63.891529"
+             x="-1252.5891"
+             y="-5.3156323"
+             style="stroke-width:1.08116663" /></flowRegion><flowPara
+           id="flowPara5096"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.08116663">Juros Compostos</flowPara></flowRoot>    </g>
+    <rect
+       ry="3.5888064"
+       y="-287.79541"
+       x="-1240.3289"
+       height="14.355226"
+       width="150.8125"
+       id="rect5102"
+       style="opacity:0.3260002;fill:url(#linearGradient5106);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient5260);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5108"
+       width="163.28572"
+       height="36.285713"
+       x="-1246.5654"
+       y="-244.24121"
+       ry="9.0714283" />
+    <g
+       id="g5126"
+       transform="translate(-965.56056,-51.905958)">
+      <flowRoot
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5116"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+           id="flowRegion5112"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             y="-443.19461"
+             x="-1835.7142"
+             height="347.14285"
+             width="618.57141"
+             id="rect5110" /></flowRegion><flowPara
+           id="flowPara5114" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5124"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27885985"
+         transform="matrix(0.38453609,0,0,0.38453609,178.16719,-184.60926)"><flowRegion
+           id="flowRegion5120"
+           style="line-height:0.75;text-align:center;text-anchor:middle;stroke-width:1.63548255"><rect
+             id="rect5118"
+             width="538.82959"
+             height="113.08099"
+             x="-1252.5891"
+             y="-5.3156323"
+             style="line-height:0.75;text-align:center;text-anchor:middle;stroke-width:1.27885985" /></flowRegion><flowPara
+           id="flowPara5122"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:Aharoni;-inkscape-font-specification:Aharoni;text-align:center;text-anchor:middle;stroke-width:1.63548255">Desconto Comercial </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:Aharoni;-inkscape-font-specification:Aharoni;text-align:center;text-anchor:middle;stroke-width:1.63548255"
+           id="flowPara5160">Simples</flowPara></flowRoot>    </g>
+    <rect
+       ry="9.0714283"
+       y="-196.61621"
+       x="-1246.5654"
+       height="36.285713"
+       width="163.28572"
+       id="rect5130"
+       style="opacity:1;fill:url(#radialGradient5268);fill-opacity:1.0;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       ry="3.5888064"
+       y="-240.27246"
+       x="-1240.3289"
+       height="14.355226"
+       width="150.8125"
+       id="rect5128"
+       style="opacity:0.3260002;fill:url(#linearGradient5154);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       transform="translate(-965.56056,-2.391077)"
+       id="g5180">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"><flowRegion
+           id="flowRegion5164"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"><rect
+             id="rect5162"
+             width="618.57141"
+             height="347.14285"
+             x="-1835.7142"
+             y="-443.19461"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni" /></flowRegion><flowPara
+           id="flowPara5166" /></flowRoot>      <flowRoot
+         transform="matrix(0.38453609,0,0,0.38453609,178.16719,-184.60926)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27885985"
+         id="flowRoot5178"
+         xml:space="preserve"><flowRegion
+           style="line-height:0.75;text-align:center;text-anchor:middle;stroke-width:1.63548255"
+           id="flowRegion5172"><rect
+             style="line-height:0.75;text-align:center;text-anchor:middle;stroke-width:1.27885985"
+             y="-5.3156323"
+             x="-1252.5891"
+             height="113.08099"
+             width="538.82959"
+             id="rect5170" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:Aharoni;-inkscape-font-specification:Aharoni;text-align:center;text-anchor:middle;stroke-width:1.63548255"
+           id="flowPara5174">Desconto Comercial </flowPara><flowPara
+           id="flowPara5176"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:Aharoni;-inkscape-font-specification:Aharoni;text-align:center;text-anchor:middle;stroke-width:1.63548255">Composto</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient5158);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5150"
+       width="150.8125"
+       height="14.355226"
+       x="-1240.3289"
+       y="-192.64746"
+       ry="3.5888064" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient5276);fill-opacity:1.0;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5182"
+       width="119.44048"
+       height="36.285713"
+       x="-1224.6428"
+       y="-144.35344"
+       ry="9.0714283"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\calcular.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <g
+       id="g5200"
+       transform="translate(-965.56056,47.981804)"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\calcular.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997">
+      <flowRoot
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5190"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+           id="flowRegion5186"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             y="-443.19461"
+             x="-1835.7142"
+             height="347.14285"
+             width="618.57141"
+             id="rect5184" /></flowRegion><flowPara
+           id="flowPara5188" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5198"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.49176776,0,0,0.49176776,378.94151,-184.53923)"><flowRegion
+           id="flowRegion5194"><rect
+             id="rect5192"
+             width="295.18112"
+             height="56.972664"
+             x="-1252.5891"
+             y="-5.3156323" /></flowRegion><flowPara
+           id="flowPara5196"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni">Calcular</flowPara></flowRoot>    </g>
+    <rect
+       ry="3.5888064"
+       y="-140.38469"
+       x="-1220.2961"
+       height="14.355226"
+       width="110.74702"
+       id="rect5202"
+       style="opacity:0.3260002;fill:url(#linearGradient5206);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\calcular.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <rect
+       ry="9.0714283"
+       y="-244.51718"
+       x="-303.12067"
+       height="36.285713"
+       width="163.28572"
+       id="rect5218"
+       style="opacity:1;fill:url(#radialGradient5232);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela despesas\visualizardespesas.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient5234);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5220"
+       width="150.8125"
+       height="14.355226"
+       x="-296.88403"
+       y="-240.54843"
+       ry="3.5888064"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela despesas\visualizardespesas.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       style="stroke-width:1.13700366"
+       transform="matrix(0.94694324,0,0,0.94694324,-70.69,-62.989662)"
+       id="g5230"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela despesas\visualizardespesas.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <flowRoot
+         transform="matrix(0.37773644,0,0,0.37773644,242.81021,-180.48663)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26216209"
+         id="flowRoot5228"
+         xml:space="preserve"><flowRegion
+           style="stroke-width:1.26216209"
+           id="flowRegion5224"><rect
+             style="stroke-width:1.26216209"
+             y="-5.3156323"
+             x="-1252.5891"
+             height="77.077278"
+             width="416.47885"
+             id="rect5222" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.26216209"
+           id="flowPara5226">Visualizar Despesas Despesas Despesas Despesas </flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5284"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43811637"
+       transform="matrix(0.60391109,0,0,0.60391109,166.90337,589.39857)"><flowRegion
+         id="flowRegion5280"
+         style="stroke-width:0.43811637"><rect
+           id="rect5278"
+           width="779.83777"
+           height="177.78685"
+           x="-2367.7976"
+           y="-1649.3389"
+           style="stroke-width:0.43811637" /></flowRegion><flowPara
+         id="flowPara5282"
+         style="stroke-width:0.43811637">Investimentos</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4809"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4811"><rect
+           id="rect4813"
+           width="593.57178"
+           height="67.886856"
+           x="-4687.8569"
+           y="-1213.4747" /></flowRegion><flowPara
+         id="flowPara4815" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4817"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4819"><rect
+           id="rect4821"
+           width="593.57178"
+           height="122.14282"
+           x="-4687.8569"
+           y="-1267.7307" /></flowRegion><flowPara
+         id="flowPara4823" /></flowRoot>    <rect
+       style="opacity:1;fill:url(#radialGradient5104-9);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5082-9"
+       width="163.28572"
+       height="36.285713"
+       x="-1252.2834"
+       y="-66.455086"
+       ry="9.0714283"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela investimentos\juros.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <g
+       id="g5100-0"
+       transform="matrix(0.92492684,0,0,0.92492684,-986.24525,112.80299)"
+       style="stroke-width:1.08116663"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela investimentos\juros.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997">
+      <flowRoot
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08116663"
+         id="flowRoot5090-2"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.08116663"
+           id="flowRegion5086-9"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.08116663"
+             y="-443.19461"
+             x="-1835.7142"
+             height="347.14285"
+             width="618.57141"
+             id="rect5084-3" /></flowRegion><flowPara
+           id="flowPara5088-9"
+           style="stroke-width:1.08116663" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5098-6"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08116663"
+         transform="matrix(0.49176776,0,0,0.49176776,390.40006,-182.52222)"><flowRegion
+           id="flowRegion5094-8"
+           style="stroke-width:1.08116663"><rect
+             id="rect5092-2"
+             width="373.12384"
+             height="63.891529"
+             x="-1252.5891"
+             y="-5.3156323"
+             style="stroke-width:1.08116663" /></flowRegion><flowPara
+           id="flowPara5096-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni;stroke-width:1.08116663">Juros </flowPara></flowRoot>    </g>
+    <rect
+       ry="3.5888066"
+       y="-62.486336"
+       x="-1246.0469"
+       height="14.355226"
+       width="150.8125"
+       id="rect5102-3"
+       style="opacity:0.3260002;fill:url(#linearGradient5106-2);fill-opacity:1;stroke:none;stroke-width:1.20895958;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela investimentos\juros.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4901"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4903"><rect
+           id="rect4905"
+           width="1171.777"
+           height="303.04578"
+           x="-4905.3008"
+           y="350.76315" /></flowRegion><flowPara
+         id="flowPara4907" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4909"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4911"><rect
+           id="rect4913"
+           width="617.14307"
+           height="137.14285"
+           x="-4684.5522"
+           y="379.16635" /></flowRegion><flowPara
+         id="flowPara4915" /></flowRoot>    <rect
+       ry="9.0714283"
+       y="-10.51461"
+       x="-1251.5275"
+       height="36.285713"
+       width="163.28572"
+       id="rect4917"
+       style="opacity:1;fill:url(#radialGradient4941);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela investimentos\descontos.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <g
+       transform="translate(-970.73665,189.82099)"
+       id="g4937"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela investimentos\descontos.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4925"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"><flowRegion
+           id="flowRegion4921"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"><rect
+             id="rect4919"
+             width="618.57141"
+             height="347.14285"
+             x="-1835.7142"
+             y="-443.19461"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni" /></flowRegion><flowPara
+           id="flowPara4923" /></flowRoot>      <flowRoot
+         transform="matrix(0.38453609,0,0,0.38453609,178.16719,-184.60926)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27885985"
+         id="flowRoot4935"
+         xml:space="preserve"><flowRegion
+           style="line-height:0.75;text-align:center;text-anchor:middle;stroke-width:1.63548255"
+           id="flowRegion4929"><rect
+             style="line-height:0.75;text-align:center;text-anchor:middle;stroke-width:1.27885985"
+             y="-5.3156323"
+             x="-1252.5891"
+             height="113.08099"
+             width="538.82959"
+             id="rect4927" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:Aharoni;-inkscape-font-specification:Aharoni;text-align:center;text-anchor:middle;stroke-width:1.63548255"
+           id="flowPara4931">Descontos </flowPara><flowPara
+           id="flowPara4933"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:Aharoni;-inkscape-font-specification:Aharoni;text-align:center;text-anchor:middle;stroke-width:1.63548255" /></flowRoot>    </g>
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient4943);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4939"
+       width="150.8125"
+       height="14.355226"
+       x="-1245.5581"
+       y="-8.0401068"
+       ry="3.5888064"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\tela investimentos\descontos.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <rect
+       ry="9.0714283"
+       y="-102.65939"
+       x="-774.56091"
+       height="36.285713"
+       width="119.44048"
+       id="rect1143"
+       style="opacity:1;fill:url(#radialGradient1165);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\cadastrar.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <g
+       transform="translate(-515.47867,89.675851)"
+       id="g1161"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\cadastrar.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1151"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"><flowRegion
+           id="flowRegion1147"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"><rect
+             id="rect1145"
+             width="618.57141"
+             height="347.14285"
+             x="-1835.7142"
+             y="-443.19461"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni" /></flowRegion><flowPara
+           id="flowPara1149" /></flowRoot>      <flowRoot
+         transform="matrix(0.49176776,0,0,0.49176776,368.03522,-182.20045)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1159"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1155"><rect
+             y="-5.3156323"
+             x="-1252.5891"
+             height="56.972664"
+             width="295.18112"
+             id="rect1153" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+           id="flowPara1157">Cadastrar</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1169"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion1171"><rect
+           id="rect1173"
+           width="694.98499"
+           height="339.41125"
+           x="-3010.2546"
+           y="-493.7244" /></flowRegion><flowPara
+         id="flowPara1175" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-707.72974"
+       y="-82.522728"
+       id="text1179"><tspan
+         sodipodi:role="line"
+         id="tspan1177"
+         x="-707.72974"
+         y="-72.867233"
+         style="stroke-width:0.26458332" /></text>
+    <rect
+       style="opacity:0.3260002;fill:url(#linearGradient1196);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1194"
+       width="110.74702"
+       height="14.355226"
+       x="-769.07471"
+       y="-100.52124"
+       ry="3.5888064"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\cadastrar.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient1220);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1198"
+       width="119.44048"
+       height="36.285713"
+       x="-773.04901"
+       y="-50.49868"
+       ry="9.0714283"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\atualizar.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <g
+       id="g1216"
+       transform="translate(-508.89061,141.83657)"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\atualizar.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997">
+      <flowRoot
+         transform="matrix(0.91053943,0,0,0.91053943,1385.5626,206.39529)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1206"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+           id="flowRegion1202"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             y="-443.19461"
+             x="-1835.7142"
+             height="347.14285"
+             width="618.57141"
+             id="rect1200" /></flowRegion><flowPara
+           id="flowPara1204" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1214"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.49176776,0,0,0.49176776,368.03522,-182.20045)"><flowRegion
+           id="flowRegion1210"><rect
+             id="rect1208"
+             width="295.18112"
+             height="56.972664"
+             x="-1252.5891"
+             y="-5.3156323" /></flowRegion><flowPara
+           id="flowPara1212"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni">Atualizar</flowPara></flowRoot>    </g>
+    <rect
+       ry="3.5888064"
+       y="-48.360527"
+       x="-767.56281"
+       height="14.355226"
+       width="110.74702"
+       id="rect1218"
+       style="opacity:0.3260002;fill:url(#linearGradient1222);fill-opacity:1;stroke:none;stroke-width:1.20895946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:export-filename="C:\androidprojects\MyMoneyImages\botoes uteis\atualizar.png"
+       inkscape:export-xdpi="95.629997"
+       inkscape:export-ydpi="95.629997" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-1028.9877"
+       y="-302.21826"
+       id="text1177"><tspan
+         sodipodi:role="line"
+         id="tspan1175"
+         x="-1028.9877"
+         y="-292.56277"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+</svg>

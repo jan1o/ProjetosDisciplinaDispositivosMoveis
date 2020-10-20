@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".telaReceitas">
+
+    <ImageButton
+        android:id="@+id/ib_receitaocasional"
+        android:layout_width="304dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="8dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_logotelareceitas"
+        app:srcCompat="@drawable/receitaocasional" />
+
+    <ImageButton
+        android:id="@+id/ib_receitafixa"
+        android:layout_width="304dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ib_receitaocasional"
+        app:srcCompat="@drawable/receitafixa" />
+
+    <ImageButton
+        android:id="@+id/ib_voltartelareceitas"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ib_visualizarreceitas"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/voltar" />
+
+    <ImageButton
+        android:id="@+id/ib_visualizarreceitas"
+        android:layout_width="304dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ib_receitafixa"
+        app:srcCompat="@drawable/visualizarreceitas" />
+
+    <ImageView
+        android:id="@+id/iv_logotelareceitas"
+        android:layout_width="250dp"
+        android:layout_height="170dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_numero2"
+        android:layout_width="84dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="33dp"
+        android:background="@android:color/holo_orange_dark"
+        android:gravity="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/et_escolha"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/tv_operacao"
+        app:layout_constraintTop_toBottomOf="@+id/tv_logo"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/tv_resposta"
+        android:layout_width="280dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="16dp"
+        android:background="@android:color/darker_gray"
+        android:backgroundTint="@android:color/darker_gray"
+        android:gravity="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.557"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt_corrigir"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/tv_logo"
+        android:layout_width="338dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:background="@android:color/holo_red_dark"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:text="Jogo da Tabuada"
+        android:textColor="@android:color/background_light"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_numero1"
+        android:layout_width="89dp"
+        android:layout_height="125dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="30dp"
+        android:background="@android:color/holo_orange_dark"
+        android:gravity="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/et_escolha"
+        app:layout_constraintEnd_toStartOf="@+id/tv_operacao"
+        app:layout_constraintHorizontal_chainStyle="spread_inside"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_logo" />
+
+    <TextView
+        android:id="@+id/tv_operacao"
+        android:layout_width="105dp"
+        android:layout_height="111dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/holo_orange_light"
+        android:gravity="center"
+        android:text="+"
+        android:textColor="@android:color/background_light"
+        android:textSize="45sp"
+        app:layout_constraintEnd_toStartOf="@+id/tv_numero2"
+        app:layout_constraintStart_toEndOf="@+id/tv_numero1"
+        app:layout_constraintTop_toBottomOf="@+id/tv_logo" />
+
+    <EditText
+        android:id="@+id/et_escolha"
+        android:layout_width="323dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="33dp"
+        android:layout_marginEnd="32dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Escolha"
+        android:inputType="textPersonName"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_operacao" />
+
+    <Button
+        android:id="@+id/bt_corrigir"
+        android:layout_width="282dp"
+        android:layout_height="126dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:background="@android:color/holo_green_dark"
+        android:text="Corrigir"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.575"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_escolha" />
+
+</android.support.constraint.ConstraintLayout>

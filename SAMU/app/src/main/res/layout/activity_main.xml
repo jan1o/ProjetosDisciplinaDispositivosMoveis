@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/iv_logomain"
+        android:layout_width="290dp"
+        android:layout_height="156dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logosplash" />
+
+    <Button
+        android:id="@+id/bt_historico"
+        android:layout_width="136dp"
+        android:layout_height="96dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="140dp"
+        android:layout_marginEnd="19dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:drawableTop="@drawable/baseline_person_black_18dp"
+        android:gravity="bottom"
+        android:text="Historico"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/bt_viaturas"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_logomain" />
+
+    <Button
+        android:id="@+id/bt_viaturas"
+        android:layout_width="136dp"
+        android:layout_height="96dp"
+        android:layout_marginTop="140dp"
+        android:layout_marginEnd="60dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:drawableTop="@drawable/baseline_local_hospital_black_18dp"
+        android:gravity="bottom"
+        android:text="VIATURAS"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_logomain" />
+
+    <Button
+        android:id="@+id/bt_infos"
+        android:layout_width="136dp"
+        android:layout_height="96dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="19dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:drawableTop="@drawable/baseline_description_black_18dp"
+        android:gravity="bottom"
+        android:text="INFORMAÇÕES"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toStartOf="@+id/bt_contato"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt_historico" />
+
+    <Button
+        android:id="@+id/bt_contato"
+        android:layout_width="136dp"
+        android:layout_height="96dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="60dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:drawableTop="@drawable/baseline_email_black_18dp"
+        android:gravity="bottom"
+        android:text="CONTATO"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt_viaturas" />
+</android.support.constraint.ConstraintLayout>
